@@ -1,0 +1,14 @@
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\bin\Debug\net8.0\Giga mega ultra dobro uprajnenie.exe
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\bin\Debug\net8.0\Giga mega ultra dobro uprajnenie.deps.json
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\bin\Debug\net8.0\Giga mega ultra dobro uprajnenie.runtimeconfig.json
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\bin\Debug\net8.0\Giga mega ultra dobro uprajnenie.dll
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\bin\Debug\net8.0\Giga mega ultra dobro uprajnenie.pdb
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.AssemblyInfoInputs.cache
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.AssemblyInfo.cs
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.csproj.CoreCompileInputs.cache
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.dll
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\refint\Giga mega ultra dobro uprajnenie.dll
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.pdb
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\Giga mega ultra dobro uprajnenie.genruntimeconfig.cache
+C:\Milenski\Giga mega ultra dobro uprajnenie\Giga mega ultra dobro uprajnenie\obj\Debug\net8.0\ref\Giga mega ultra dobro uprajnenie.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Giga mega ultra dobro uprajnenie/1.0.0": {
+        "runtime": {
+          "Giga mega ultra dobro uprajnenie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Giga mega ultra dobro uprajnenie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
